@@ -1,0 +1,6 @@
+{
+  "name": "교사용 랜덤 자리배치 생성기",
+  "description": "학생 명단을 입력하여 무작위로 교실 좌석을 배치하는 깔끔하고 직관적인 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
